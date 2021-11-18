@@ -5,7 +5,8 @@
 </template>
 
 <script>
-import wS from ("../components/wS.vue")
+//import wS from ("../components/wS.vue")
+
 
 export default {
   name: 'Espirulina',

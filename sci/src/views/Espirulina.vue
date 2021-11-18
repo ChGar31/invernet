@@ -5,7 +5,8 @@
 </template>
 
 <script>
-import wS from ("../components/wS.vue")
+//import wS from ("../components/wS.vue")
+//prueba de rama
 
 export default {
   name: 'Espirulina',
